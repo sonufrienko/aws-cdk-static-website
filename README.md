@@ -1,5 +1,6 @@
 # Static website with AWS CDK
 
+![](aws-s3-cloudfront-website.png)
 
 ## Getting started
 
